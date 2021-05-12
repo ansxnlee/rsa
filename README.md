@@ -1,12 +1,14 @@
 # rsa 
 
-This is an education implemenetation of RSA that should ABSOLUTELY NOT be used for security.
+This is an education implemenetation of RSA that should ABSOLUTELY NOT be used for any real security.
 
 
 
 # Signing usage: 
 
 ### `python3 rsaSign.py file`
+
+Where 'file' is the path to some file 
 
 # Verification usage: 
 
