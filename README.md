@@ -1,6 +1,6 @@
 # rsa 
 
-This is an education implemenetation of RSA that should ABSOLUTELY NOT be used for any real security.
+This is an educational implemenetation of RSA that should ABSOLUTELY NOT be used for any real security.
 
 
 
