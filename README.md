@@ -3,6 +3,7 @@
 This is an education implemenetation of RSA that should ABSOLUTELY NOT be used for security.
 
 Signing usage: python3 rsaSign.py file
+
 Verification usage: python3 rsaVerify.py file sign
 
 Where 'file' is the path to some file 
